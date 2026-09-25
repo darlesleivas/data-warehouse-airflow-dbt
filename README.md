@@ -36,3 +36,8 @@ O pipeline foi estruturado combinando ferramentas consolidadas no mercado de dad
 ├── 2_data_warehouse/           # Projeto dbt completo (Staging, Intermediate, Mart e Seeds)
 ├── 3_airflow/                  # Orquestração (DAGs, Imagem Customizada com Dockerfile e Cosmos)
 └── README.md
+
+---
+
+## 📖 Documentação Adicional
+Para um passo a passo detalhado de reprodução e configuração do ambiente, consulte o [Guia de Setup](docs/SETUP.md).
