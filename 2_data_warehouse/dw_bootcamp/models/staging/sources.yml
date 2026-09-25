@@ -1,0 +1,7 @@
+﻿version: 2
+
+sources:
+  - name: postgres_source
+    schema: public
+    tables:
+      - name: minha_tabela

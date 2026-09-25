@@ -1,0 +1,1 @@
+select * from {{ ref('int_minha_tabela_transformada') }}
